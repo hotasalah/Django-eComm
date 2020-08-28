@@ -37,4 +37,6 @@ Checkout
 Create Account to view Order 
 
 
+## Items stored in Cookies
+
 Guest Checkout is handled by sending temporary cookies to the client's web browser, consisting of the order details, to be able to proceed in the checkout process.

@@ -3,7 +3,7 @@ fully functional eCommerece website with user and guest checkout capabilities.
 
 
 
-An online store for Classical Music Instruments.
+#### An online store for Classical Music Instruments.
 
 This project is a fully functioning eCommerce website from start to checkout functionality. Users have the ability to add multiple products to cart, varying from instructions and their outfit.
 

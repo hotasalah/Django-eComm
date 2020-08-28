@@ -7,10 +7,12 @@ fully functional eCommerece website with user and guest checkout capabilities.
 
 This project is a fully functioning eCommerce website from start to checkout functionality. Users have the ability to add multiple products to cart, varying from instructions and their outfit.
 
+![alt text](https://github.com/hotasalah/Django-eComm/blob/master/Items%20in%20Store.png)
 
 Once a user creates an account, will automatically be added as a customer and will be treated as an authenticated user.
 This process was handled and programmed using the Django Signals feature.
 
+![alt text](https://github.com/hotasalah/Django-eComm/blob/master/user%20authentication.png)
 
 ## User/Guest Checkout
 
@@ -34,9 +36,13 @@ Guest Checkout Process:
 Add item to cart
 Edit Order
 Checkout
-Create Account to view Order 
+Create Account to view Order
+
+![alt text](https://github.com/hotasalah/Django-eComm/blob/master/Items%20in%20Cart.png)
 
 
 ## Items stored in Cookies
 
 Guest Checkout is handled by sending temporary cookies to the client's web browser, consisting of the order details, to be able to proceed in the checkout process.
+
+![alt text](https://github.com/hotasalah/Django-eComm/blob/master/Items%20in%20Cookies.png)

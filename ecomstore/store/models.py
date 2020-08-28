@@ -94,18 +94,3 @@ class ShippingAddress(models.Model):
 		return self.address
 
 
-
-
-'''
-p1 = Product.objects.create(name='Ming Jiang Zhu 925', price=357, image='image-1.jpg')
-
-p2 = Product.objects.create(name='D Z Strad violin', price=89.99, image='image-2.jpg')
-
-p3 = Product.objects.create(name='Violin outfit', price=767.80, image='image-3.jpg')
-
-p4 = Product.objects.create(name='Tower Strings violin outfit', price=119, image='image-4.jpg')
-
-p5 = Product.objects.create(name='Cecilio Violin CVN', price=149.99,image='image-5.jpg')
-
-p6 = Product.objects.create(name='Hostein Bench Strad', price=87.88, image='image-6.jpg')
-'''
